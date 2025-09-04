@@ -10,4 +10,4 @@ const getME = (userName) => {
 const addCourse = (course) => {
   return true;
 };
-const test1 = () => false;
+const test = () => false;
