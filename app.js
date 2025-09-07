@@ -10,6 +10,3 @@ const getME = (userName) => {
 const addCourse = (course) => {
   return true;
 };
-const test = () => false;
-
-const setTickets = () => true;
