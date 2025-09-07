@@ -5,9 +5,3 @@ h1 {
   color: black;
   font-size: 12px;
 }
-/* new code */
-.form {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
