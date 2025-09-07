@@ -1,12 +1,15 @@
 /* new code */
-const likePost = () =>{
+const likePost = () => {
   return true;
-}
+};
 
-const dissLikePost = () =>{
+const dissLikePost = () => {
   return false;
-}
+};
 
-const getMe = (user)=>{
+const getMe = (user) => {
   return user.name;
-}
+};
+const setComment = (comment) => {
+  return comment.body;
+};
