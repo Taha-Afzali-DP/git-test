@@ -5,3 +5,8 @@ h1 {
   color: black;
   font-size: 12px;
 }
+h2 {
+  color: #cecece;
+  background-color: #333;
+  text-align: center;
+}
